@@ -1,2 +1,2 @@
 # my-codes
-First repository created for my scripts and programs.
+Hey! This is the first repository created for my scripts and programs.
